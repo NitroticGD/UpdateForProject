@@ -5,3 +5,18 @@ data/Map004.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 data/Map005.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map005.json
 data/Map006.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map006.json
 <End Of Version>
+
+
+<Version: 1.02>
+
+
+data/Map007.json
+data/Map008.json
+data/system.json
+
+
+
+
+
+
+<End Of Version>
