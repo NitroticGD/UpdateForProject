@@ -28,3 +28,25 @@ data/Map001.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 js/plugins/MadeWithMv.js https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/MadeWithMv.js
 data/Map011.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map011.json
 <End Of Version>
+
+
+<Version: 1.04>
+data/Map001.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map001.json
+data/Map006.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map006.json
+data/Map003.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map003.json
+data/Map009.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map009.json
+data/Map010.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map009.json
+data/Map013.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map013.json
+data/Map014.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map014.json
+data/Map015.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map015.json
+data/Map007.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map007.json
+data/Items.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Items.json
+data/Skills.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Skills.json
+data/System.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/System.json
+
+
+
+
+
+
+<End Of Version>
