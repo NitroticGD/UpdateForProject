@@ -12,7 +12,16 @@ data/Map006.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 
 data/Map007.json
 data/Map008.json
-data/system.json
+data/Map009.json
+data/Map010.json
+data/Map011.json
+data/Map012.json
+data/Map013.json
+data/Weapons.json
+data/Armors.json
+data/Enemies.json
+data/System.json
+
 
 
 
