@@ -23,3 +23,8 @@ data/Map002.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 data/Map003.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map003.json
 data/Map001.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map001.json
 <End Of Version>
+
+<Version: 1.03>
+js/plugins/MadeWithMv.js https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/MadeWithMv.js
+data/Map011.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map011.json
+<End Of Version>
