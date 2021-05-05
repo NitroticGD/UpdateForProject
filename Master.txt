@@ -8,24 +8,18 @@ data/Map006.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 
 
 <Version: 1.02>
-
-
-data/Map007.json
-data/Map008.json
-data/Map009.json
-data/Map010.json
-data/Map011.json
-data/Map012.json
-data/Map013.json
-data/Weapons.json
-data/Armors.json
-data/Enemies.json
-data/System.json
-
-
-
-
-
-
-
+data/Map007.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map007.json
+data/Map008.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map008.json
+data/Map009.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map009.json
+data/Map010.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map010.json
+data/Map011.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map011.json
+data/Map012.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map012.json
+data/Map013.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map013.json
+data/Weapons.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Weapons.json
+data/Armors.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Armors.json
+data/Enemies.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Enemies.json
+data/System.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/System.json
+data/Map002.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map002.json
+data/Map003.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map003.json
+data/Map001.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map001.json
 <End Of Version>
