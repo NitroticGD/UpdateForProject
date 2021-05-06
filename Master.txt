@@ -43,4 +43,5 @@ data/Map007.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 data/Items.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Items.json
 data/Skills.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Skills.json
 data/System.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/System.json
+data/MapInfos.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/MapInfos.json
 <End Of Version>
