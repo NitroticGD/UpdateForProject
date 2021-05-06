@@ -51,3 +51,19 @@ data/MapInfos.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject
 data/Map015.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map015.json
 data/Map002.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map002.json
 <End Of Version>
+
+<Version: 1.06>
+data/Map002.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map002.json
+data/Map003.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map003.json
+data/Map004.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map004.json
+data/Map005.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map005.json
+data/Map006.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map006.json
+data/Map007.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map007.json
+data/Map008.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map008.json
+data/Map009.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map009.json
+data/Map010.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map010.json
+data/Map011.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map011.json
+data/Map012.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map012.json
+data/Map013.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map015.json
+data/Actors.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Actors.json
+<End Of Version>
