@@ -83,4 +83,5 @@ data/Troops.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 data/Weapons.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Weapons.json
 data/Armors.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Armors.json
 data/Map008.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map008.json
+data/Map009.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map009.json
 <End Of Version>
