@@ -44,3 +44,10 @@ data/Skills.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 data/System.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/System.json
 data/MapInfos.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/MapInfos.json
 <End Of Version>
+
+
+
+<Version: 1.05>
+data/Map015.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map015.json
+data/Map002.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map002.json
+<End Of Version>
