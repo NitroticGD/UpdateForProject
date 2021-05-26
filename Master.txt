@@ -87,7 +87,7 @@ data/Map009.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 <End Of Version>
 
 
-<Version: 1.1.0>
+<Version: 1.10>
 data/Armors.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Armors.json
 data/Map014.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map014.json
 data/Map016.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map016.json
