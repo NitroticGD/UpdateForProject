@@ -104,6 +104,6 @@ data/Map006.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 data/Map010.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map010.json
 <End Of Version>
 
-<Version: 1.11>
+<Version: 1.1.2>
 js/plugins/SRD_AutoUpdater.js https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/SRD_AutoUpdater.js
 <End Of Version>
