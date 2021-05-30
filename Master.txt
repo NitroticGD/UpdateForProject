@@ -111,3 +111,15 @@ js/plugins/SRD_AutoUpdater.js https://raw.githubusercontent.com/NitroticGD/Updat
 <Version: 1.12>
 data/Map018.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map018.json
 <End Of Version>
+
+<Version: 1.20>
+data/Map010.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map010.json
+data/Map014.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map014.json
+data/Map009.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map009.json
+data/Map008.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map008.json
+data/Map014.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map014.json
+data/Map017.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map017.json
+data/Map018.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map018.json
+data/Classes.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Classes.json
+data/Tilesets.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Tilesets.json
+<End Of Version>
