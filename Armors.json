@@ -6,8 +6,8 @@ null,
 {"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
 {"id":5,"atypeId":3,"description":"","etypeId":7,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Leather Chestplate","note":"","params":[0,0,0,6,0,0,0,0],"price":150},
 {"id":6,"atypeId":4,"description":"","etypeId":7,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Iron Chestplate","note":"","params":[0,0,0,14,0,0,0,0],"price":750},
-{"id":7,"atypeId":4,"description":"","etypeId":7,"traits":[{"code":22,"dataId":7,"value":0.1}],"iconIndex":137,"name":"Dragonscale Chestplate","note":"","params":[1000,0,5,50,15,15,0,0],"price":100000},
+{"id":7,"atypeId":4,"description":"One of the strongest chestplated.\nFormed from the scales of dead dragons +5 Attack +50 Defense -3 Agility +1000 HP","etypeId":7,"traits":[{"code":22,"dataId":7,"value":0.1}],"iconIndex":137,"name":"Dragonscale Chestplate","note":"","params":[1000,0,5,50,15,15,-3,0],"price":100000},
 {"id":8,"atypeId":2,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Magic Hat","note":"","params":[0,0,0,8,5,15,0,0],"price":800},
-{"id":9,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":9,"atypeId":0,"description":"A Chestplate for Warriors\n+10 Attack +20 Defense","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Ruby Chestplate","note":"","params":[0,0,10,20,0,0,0,0],"price":0},
 {"id":10,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
