@@ -138,3 +138,8 @@ data/Map012.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/m
 data/Map011.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map011.json
 data/Skills.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Skills.json
 <End Of Version>
+
+<Version: 1.3.1>
+data/Map017.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map017.json
+data/Map018.json https://raw.githubusercontent.com/NitroticGD/UpdateForProject/main/Map018.json
+<End Of Version>
